@@ -5,5 +5,8 @@
 * [Camp Meal Plan Sign up](https://forms.gle/Gon5jkSN8AGf1JsM8)
 
 
+### Meetings:
+August 12 - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVHVObEFXRXJtYlFZdlAxRFpCdz09)
+
 
 <img src="images/camp_layout.png" alt="Camp Layout" />
