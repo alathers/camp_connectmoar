@@ -25,6 +25,7 @@ August 12 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVH
 
 ## Camp Events
 ### Games  3pm-6pm
+
 |Sunday||
 |Monday|.|
 |Tuesday|.|
@@ -34,6 +35,7 @@ August 12 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVH
 |Saturday|.|
 
 ### Tea  12am-2am
+
 |Monday|.|
 |Tuesday|.|
 |Wednesday|.|
@@ -41,11 +43,13 @@ August 12 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVH
 |Friday|.|
 
 ### Reiki   10am-11:30am
+
 | Monday |. |
 | Wednesday|. | 
 | Friday|.. | 
 
 ### Dance  10pm-11:30pm
+
 |Wednesday|..|
 
 
