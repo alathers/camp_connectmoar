@@ -55,4 +55,5 @@ August 12 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVH
 
 
 # Layout
+
 <img src="images/camp-layout.png" alt="Camp Layout" />
