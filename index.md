@@ -3,6 +3,7 @@
 ### Deadlines:
 * [Camp Questionaire due July 5 2022](https://forms.gle/hVggiE9id1CJw2H59) 
 * [Camp Meal Plan Sign up](https://forms.gle/Gon5jkSN8AGf1JsM8)
+* [Camp Shift Signup](https://forms.gle/haT4VcDZyxvidDFYA)
 
 
 ### Meetings:
