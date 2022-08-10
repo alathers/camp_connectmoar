@@ -10,4 +10,45 @@
 August 12 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVHVObEFXRXJtYlFZdlAxRFpCdz09)
 
 
+# Schedules
+## Meal Schedules
+
+|Day| Team| Proposed Meal|
+|_________|______________________|____________________________________________|
+|Monday| Andy, Domi, Jason, Iona| |
+|Tuesday| Kevin, Dorthy and Carly  (Now Nancy too!)| Either Salmon, or Hearty ass Alaskan Game stews|
+|Wednesday|Jules, Jasper, Roel, Roeland | Pasta arabiata (vegetarian)|
+|Thursday|Adam, Erin, David, Nery|Sous Vide Steak and sides|
+|Friday|Lisa/John|Pasta night of some sort |
+|Saturday|Jazzie/Anna| Fried Rice!|
+
+
+## Camp Events
+### Games  3pm-6pm
+|Sunday||
+|Monday|.|
+|Tuesday|.|
+|Wednesday|.|
+|Thursday|.|
+|Friday|.|
+|Saturday|.|
+
+### Tea  12am-2am
+|Monday|.|
+|Tuesday|.|
+|Wednesday|.|
+|Thursday|.|
+|Friday|.|
+
+### Reiki   10am-11:30am
+| Monday |. |
+| Wednesday|. | 
+| Friday|.. | 
+
+### Dance  10pm-11:30pm
+|Wednesday|..|
+
+
+
+# Layout
 <img src="images/camp_layout.png" alt="Camp Layout" />
