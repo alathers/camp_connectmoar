@@ -7,7 +7,7 @@
 
 
 ### Meetings:
-August 12 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVHVObEFXRXJtYlFZdlAxRFpCdz09)
+Sunday August 14 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVHVObEFXRXJtYlFZdlAxRFpCdz09)
 
 
 # Schedules
