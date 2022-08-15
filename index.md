@@ -7,6 +7,7 @@
 
 # Arrival and Address
 4 O'Clock on Center Camp Plaza
+<img src="./images/Camp_rough_location.jpg'>
 
 When arriving - you will take the right fork
 Take a left onto 5:30 (second left)
