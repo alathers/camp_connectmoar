@@ -32,7 +32,7 @@ Enter from the back of camp
 |Tuesday| Kevin, Dorthy and Carly  (Now Nancy too!)| Either Salmon, or Hearty ass Alaskan Game stews|
 |Wednesday|Jules, Jasper, Roel, Roeland | Pasta arabiata (vegetarian)|
 |Thursday|Adam, Erin, David, Nery|Sous Vide Steak and sides|
-|Friday|Lisa/John|Pasta night of some sort |
+|Friday|Lisa/John/Sunny/Liz|Pasta night of some sort |
 |Saturday|Jazzie/Anna| Fried Rice!|
 
 
