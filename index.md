@@ -15,6 +15,12 @@ Left onto Rod's Road
 Enter from the back of camp
 
 
+# Extras
+* (The unofficial map of BRC 2022)[https://www.unofficialbrcmap.com/]
+* (Rockstar Librarian Facebook)[https://www.facebook.com/rockstarlibrarianpage/]
+* (Rockstar Librarian Blog site)[https://www.rockstarlibrarian.com/]
+
+
 # Schedules
 ## Meal Schedules
 
