@@ -33,7 +33,7 @@ Enter from the back of camp
 |Wednesday|Jules, Jasper, Roel, Roeland | Pasta arabiata (vegetarian)|
 |Thursday|Adam, Erin, David, Nery|Sous Vide Steak and sides|
 |Friday|Lisa/John/Sunny/Liz|Pasta night of some sort |
-|Saturday|Jazzie/Anna| Fried Rice!|
+
 
 
 ## Camp Events
