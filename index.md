@@ -17,10 +17,10 @@ Enter from the back of camp
 
 
 # Extras
-* (Jackrabbit Speaks JRS)[https://burningman.org/news/jrs/]
-* (The unofficial map of BRC 2022)[https://www.unofficialbrcmap.com/]
-* (Rockstar Librarian Facebook)[https://www.facebook.com/rockstarlibrarianpage/]
-* (Rockstar Librarian Blog site)[https://www.rockstarlibrarian.com/]
+* [Jackrabbit Speaks JRS](https://burningman.org/news/jrs/)
+* [The unofficial map of BRC 2022](https://www.unofficialbrcmap.com/)
+* [Rockstar Librarian Facebook](https://www.facebook.com/rockstarlibrarianpage/)
+* [Rockstar Librarian Blog site](https://www.rockstarlibrarian.com/)
 
 
 # Schedules
