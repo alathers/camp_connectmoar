@@ -6,8 +6,6 @@
 * [Camp Shift Signup](https://forms.gle/haT4VcDZyxvidDFYA)
 
 
-### Meetings:
-Sunday August 14 2pm PST - [Zoom Link](https://us02web.zoom.us/j/84185095544?pwd=TzZoVHVObEFXRXJtYlFZdlAxRFpCdz09)
 
 
 # Schedules
