@@ -5,7 +5,14 @@
 * [Camp Meal Plan Sign up](https://forms.gle/Gon5jkSN8AGf1JsM8)
 * [Camp Shift Signup](https://forms.gle/haT4VcDZyxvidDFYA)
 
+# Arrival and Address
+4 O'Clock on Center Camp Plaza
 
+When arriving - you will take the right fork
+Take a left onto 5:30 (second left)
+Left at A Street
+Left onto Rod's Road
+Enter from the back of camp
 
 
 # Schedules
