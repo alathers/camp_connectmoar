@@ -7,7 +7,7 @@
 
 # Arrival and Address
 4 O'Clock on Center Camp Plaza
-<img src="./images/Camp_rough_location.jpg'>
+<img src="./images/Camp_rough_location.jpg">
 
 When arriving - you will take the right fork
 Take a left onto 5:30 (second left)
@@ -28,6 +28,7 @@ Enter from the back of camp
 
 |Day| Team| Proposed Meal|
 |---------|-------------------|----------------------------------|
+|Sunday|Chris| - |
 |Monday| Andy, Domi, Jason, Iona| |
 |Tuesday| Kevin, Dorthy and Carly  (Now Nancy too!)| Either Salmon, or Hearty ass Alaskan Game stews|
 |Wednesday|Jules, Jasper, Roel, Roeland | Pasta arabiata (vegetarian)|
