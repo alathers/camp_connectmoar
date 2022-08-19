@@ -40,32 +40,15 @@ Enter from the back of camp
 ## Camp Events
 ### Games  3pm-6pm
 
-|Sunday||
-|Monday|.|
-|Tuesday|.|
-|Wednesday|.|
-|Thursday|.|
-|Friday|.|
-|Saturday|.|
-
-### Tea  12am-2am
-
-|Monday|.|
-|Tuesday|.|
-|Wednesday|.|
-|Thursday|.|
-|Friday|.|
-
-### Reiki   10am-11:30am
-
-| Monday |. |
-| Wednesday|. | 
-| Friday|.. | 
-
-### Dance  10pm-11:30pm
-
-|Wednesday|..|
-
+| Day| Games 3-6pm| Tea 12am-2am| Dance 10pm-11:30pm| Reiki 10am-11:30am|
+| --- | --- | --- | --- | --- |
+|Sunday|Adam, Nery| -- | -- | 
+|Monday|Roel, Jasper|Brynne, Chris, Nancy| Kevin, Lisa|  -- |
+|Tuesday|Liz, Ryan|Roeland, Jules, Katalyst| - | - |
+|Wednesday|Kevin, Chris|Andrei, Hillel, Katie| Liz, Niko| Lisa, Kevin, Dorothy, John, Liz, Iona, Timmy, David, Jas, Anna, Niko |
+|Thursday|David, Brynne|Dorothy, Niko, Jason| - | -|
+|Friday|Kevin, Dorothy|Ben, Samantha, Pavel| Liz, David| - |
+|Saturday|Candace, Ed| - | - |
 
 
 # Layout
