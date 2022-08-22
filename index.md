@@ -43,10 +43,10 @@ Enter from the back of camp
 | Day| Games 3-6pm| Tea 12am-2am| Dance 10pm-11:30pm| Reiki 10am-11:30am|
 | --- | --- | --- | --- | --- |
 |Sunday|Adam, Nery| -- | -- | 
-|Monday|Roel, Jasper|Brynne, Chris, Nancy| Kevin, Lisa|  -- |
+|Monday|Roel, Jasper|Brynne, Chris, Nancy| Lisa|  -- |
 |Tuesday|Liz, Ryan|Roeland, Jules, Katalyst| - | - |
-|Wednesday|Kevin, Chris|Andrei, Hillel, Katie| Liz, Niko| Lisa, Kevin, Dorothy, John, Liz, Iona, Timmy, David, Jas, Anna, Niko |
-|Thursday|David, Brynne|Dorothy, Niko, Jason| - | -|
+|Wednesday|Hilel, Ben S| 80% of the camp wanted this, so I'll assume we're set |
+|Thursday|David|Dorothy, Niko, Jason| - | -|
 |Friday|Kevin, Dorothy|Ben, Samantha, Pavel| Liz, David| - |
 |Saturday|Candace, Ed| - | - |
 
