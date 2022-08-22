@@ -47,7 +47,7 @@ Enter from the back of camp
 |Tuesday|Liz, Ryan|Roeland, Jules, Katalyst| - | - |
 |Wednesday|Hilel, Ben S| 80% of the camp wanted this, so I'll assume we're set |
 |Thursday|David, Jamie|Dorothy, Niko, Jason| - | -|
-|Friday|Kevin, Dorothy|Ben, Samantha, Pavel| Liz, David| - |
+|Friday|Kevin, Dorothy|Ben M/B, Samantha, Pavel| Liz, David| - |
 |Saturday|Candace, Ed| - | - |
 
 
