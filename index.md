@@ -41,4 +41,8 @@ When arriving:
 
 # Layout
 
+TBD
+
 [//]: <> (<img src="images/camp-layout.png" alt="Camp Layout" /> )
+
+waiting for ppl to finish their camp questionaires  :p
