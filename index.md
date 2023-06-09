@@ -9,11 +9,12 @@
 5 O'Clock on Rod's Road
 <img src="./images/Camp_rough_location.jpg">
 
-When arriving - you will take the right fork
-Take a left onto 5:30 (second left)
-Left at A Street
-Left onto Rod's Road
-Enter from the back of camp
+When arriving: 
+* You will take the right fork
+* Take a left onto 5:30 (second left)
+* Left at A Street
+* Left onto Rod's Road
+* Enter from the back of camp
 
 
 # Extras
@@ -24,20 +25,18 @@ Enter from the back of camp
 
 
 
-
-
 ## Camp Events
 ### Games  3pm-6pm
 
 | Day| Games 3-6pm| Tea 12am-2am| Dance 10pm-11:30pm| Reiki 10am-11:30am|
 | --- | --- | --- | --- | --- |
-|Sunday|Adam, Nery| -- | -- | 
-|Monday|Roel, Jasper|Brynne, Chris, Nancy| Lisa|  -- |
-|Tuesday|Liz, Ryan|Roeland, Jules, Katalyst| - | - |
-|Wednesday|Hilel, Ben S| 80% of the camp wanted this, so I'll assume we're set |
-|Thursday|David, Jamie|Dorothy, Niko, Jason| - | -|
-|Friday|Kevin, Dorothy|Ben M/B, Samantha, Pavel| Liz, David| - |
-|Saturday|Candace, Ed| - | - |
+|Sunday|| -- | -- | 
+|Monday|||  -- |
+|Tuesday||| - | - |
+|Wednesday||  |
+|Thursday||| - | -|
+|Friday||| | - |
+|Saturday|| - | - |
 
 
 # Layout
