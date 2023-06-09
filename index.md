@@ -18,7 +18,7 @@ Enter from the back of camp
 
 # Extras
 * [Jackrabbit Speaks JRS](https://burningman.org/news/jrs/)
-[comment]: * The unofficial map of BRC 2023 - Down for this year likely, because they're all moving on! :( 
+* The unofficial map of BRC 2023 - Down for this year likely, because they're all moving on! :( 
 * [Rockstar Librarian Facebook](https://www.facebook.com/rockstarlibrarianpage/)
 * [Rockstar Librarian Blog site](https://www.rockstarlibrarian.com/)
 
