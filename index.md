@@ -41,4 +41,4 @@ When arriving:
 
 # Layout
 
-<img src="images/camp-layout.png" alt="Camp Layout" />
+<!-- <img src="images/camp-layout.png" alt="Camp Layout" /> -->
