@@ -30,7 +30,7 @@ When arriving:
 ### Reiki  10am-11:30am  Mon/Wed/Fri
 ### Light Show  9pm-11pm Tues/Thurs
 
-To adjust your time slot please speak with Momma Diz or Adam 
+To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 
 | Day| Games 3-6pm | Tea 12am-2am | Light Show 9pm-11pm | Reiki 10am-11:30am |
 | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ To adjust your time slot please speak with Momma Diz or Adam
 |Friday|--| Randy | -- | -- |
 |Saturday|--| -- | -- | -- |
 
-
+<br/><br/>
 # Layout
 
 
