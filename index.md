@@ -35,7 +35,7 @@ To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 | Day| Games 3-6pm | Tea 12am-2am | Light Show 9pm-11pm | Reiki 10am-11:30am |
 | --- | --- | --- | --- | --- |
 |Sunday|Dorthy,Nevine|Marcel,Jackie|--|--|
-|Monday|Nathan,Levi|Jeremy,Ryan|Danny|
+|Monday|Nathan,Levi|Jeremy,Ryan|--|Danny|
 |Tuesday|Moana,Conner|Alexa,Kyle|Abel(Marky)|--|
 |Wednesday|Ethan,Nancy,Amanda M|Paul,Sofia|Derick|Niko|
 |Thursday|Ariel,Scott|Franck,Yurii|David|Olga|
