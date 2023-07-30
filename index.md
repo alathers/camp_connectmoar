@@ -43,6 +43,6 @@ When arriving:
 
 TBD
 
-[//]: <> (<img src="images/camp-layout.png" alt="Camp Layout" /> )
+[//]: <> (<img src="images/camp-layout-2023.png" alt="Camp Layout" /> )
 
 waiting for ppl to finish their camp questionaires  :p
