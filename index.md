@@ -31,16 +31,16 @@ When arriving:
 ### Light Show  9pm-11pm Tues/Thurs
 
 To adjust your time slot please speak with Momma Diz or Adam 
-<br />
-| Day| Games 3-6pm| Tea 12am-2am| Light Show 9pm-11pm| Reiki 10am-11:30am|
+
+| Day| Games 3-6pm | Tea 12am-2am | Light Show 9pm-11pm | Reiki 10am-11:30am |
 | --- | --- | --- | --- | --- |
-|Sunday|Dorthy, Nevine | -- | -- | -- | 
-|Monday|Nathan,Levi | Jeremy |  -- |
-|Tuesday| Moana     | Alexa | - | - |
-|Wednesday|         | Paul | -- |
-|Thursday|          | Franck | - | Olga |
-|Friday|            | Randy || - |
-|Saturday|          | - | - |
+|Sunday|Dorthy, Nevine|--|--|--|
+|Monday|Nathan,Levi|Jeremy|--|
+|Tuesday|Moana|Alexa|Abel(Marky)| -- |
+|Wednesday| Ethan, Nancy | Paul | -- |
+|Thursday|--| Franck | David | Olga |
+|Friday|--| Randy | -- | -- |
+|Saturday|--| -- | -- | -- |
 
 
 # Layout
