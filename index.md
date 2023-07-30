@@ -1,9 +1,8 @@
 ## Welcome to the Landing page for Connect MoaR
 
 ### Deadlines:
-* [Camp Questionaire due July 5 2023](https://forms.gle/hVggiE9id1CJw2H59) 
-* [Camp Meal Plan Sign up](https://forms.gle/Gon5jkSN8AGf1JsM8)
-* [Camp Shift Signup](https://forms.gle/haT4VcDZyxvidDFYA)
+* [Camp Questionaire due July 5 2023](https://forms.gle/XLcBT425rB7dYvuY9)
+* [Camp Shift Signup](https://forms.gle/iryLB4qWp74a2Xij8)
 
 # Arrival and Address
 5 O'Clock on Rod's Road
@@ -41,8 +40,7 @@ When arriving:
 
 # Layout
 
-TBD
 
-[//]: <> (<img src="images/camp-layout-2023.png" alt="Camp Layout" /> )
+<img src="images/camp-layout-2023.png" alt="Camp Layout" />
 
 waiting for ppl to finish their camp questionaires  :p
