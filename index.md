@@ -38,8 +38,8 @@ To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 |Monday|Nathan,Levi|Jeremy,Ryan|--|Danny|
 |Tuesday|Moana,Conner|Alexa,Kyle|Abel(Marky)|--|
 |Wednesday|Ethan,Nancy,Amanda M|Paul,Sofia|Derick|Niko|
-|Thursday|Ariel,Scott|Franck,Yurii|David|Olga|
-|Friday|Amanda B, Spencer|Randy, Bikram|--|--|
+|Thursday|Ariel,Scott|Franck,Yurii|David|--|
+|Friday|Amanda B, Spencer|Randy, Bikram|--|Olga|
 |Saturday|Michael,Laura|--|--|--|
 
 <br/><br/>
