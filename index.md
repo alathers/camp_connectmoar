@@ -32,7 +32,7 @@ When arriving:
 
 To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 
-| Day &nbsp;&nbsp;&nbsp;| Games 3-6pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tea 12am-2am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Light Show 9pm-11pm&nbsp;&nbsp;&nbsp;&nbsp; | Reiki 10am-11:30am&nbsp;&nbsp;&nbsp; |
+| Day | Games 3-6pm | Tea 12am-2am | Light Show 9pm-11pm | Reiki 10am-11:30am |
 | --- | --- | --- | --- | --- |
 |Sunday|Dorthy,Nevine|Marcel,Jackie|--|--|
 |Monday|Nathan,Levi|Jeremy,Ryan|--|Danny|
