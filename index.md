@@ -25,17 +25,22 @@ When arriving:
 
 
 ## Camp Events
-### Games  3pm-6pm
+### Games  3pm-6pm Daily
+### Tea  12am-2am Daily
+### Reiki  10am-11:30am  Mon/Wed/Fri
+### Light Show  9pm-11pm Tues/Thurs
 
-| Day| Games 3-6pm| Tea 12am-2am| Dance 10pm-11:30pm| Reiki 10am-11:30am|
+To adjust your time slot please speak with Momma Diz or Adam 
+<br />
+| Day| Games 3-6pm| Tea 12am-2am| Light Show 9pm-11pm| Reiki 10am-11:30am|
 | --- | --- | --- | --- | --- |
-|Sunday|| -- | -- | 
-|Monday|||  -- |
-|Tuesday||| - | - |
-|Wednesday||  |
-|Thursday||| - | -|
-|Friday||| | - |
-|Saturday|| - | - |
+|Sunday|Dorthy, Nevine | -- | -- | -- | 
+|Monday|Nathan,Levi | Jeremy |  -- |
+|Tuesday| Moana     | Alexa | - | - |
+|Wednesday|         | Paul | -- |
+|Thursday|          | Franck | - | Olga |
+|Friday|            | Randy || - |
+|Saturday|          | - | - |
 
 
 # Layout
