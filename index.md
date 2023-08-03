@@ -27,20 +27,20 @@ When arriving:
 ## Camp Events
 ### Games  3pm-6pm Daily
 ### Tea  12am-2am Daily
-### Reiki  10am-11:30am  Mon/Wed/Fri
+### Yoga  10am-11:30am  Tues/Thurs
 ### Light Show  9pm-11pm Tues/Thurs
 
 To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 
-| Day | Games 3-6pm | Tea 12am-2am | Light Show 9pm-11pm | Reiki 10am-11:30am |
+| Day | Games 3-6pm | Tea 12am-2am | Light Show 9pm-11pm | Yoga 10am-11:30am |
 | --- | --- | --- | --- | --- |
 |Sunday|Dorthy,Nevine|Marcel,Jackie|--|--|
-|Monday|Nathan,Levi|Jeremy,Ryan|--|Danny|
-|Tuesday|Moana,Conner|Alexa,Kyle|Abel(Marky)|--|
-|Wednesday|Ethan,Nancy,Amanda M|Paul,Sofia|--|Niko|
-|Thursday|Ariel,Scott,Derick|Franck,Yurii|David|--|
-|Friday|Amanda B, Spencer|Randy, Bikram|--|Olga|
-|Saturday|Michael,Laura|--|--|--|
+|Monday|Nathan,Levi|Jeremy,Ryan|--|--|
+|Tuesday|Moana,Conner|Alexa,Kyle|Abel(Marky)| Niko/Laura|
+|Wednesday|Ethan,Nancy,Amanda M|Paul,Sofia,Danny|--|--|
+|Thursday|Ariel,Scott,Derick|Franck,Yurii|David|Niko/Laura|
+|Friday|Amanda B, Spencer|Randy, Bikram|--|--|
+|Saturday|Michael,Olga|--|--|--|
 
 <br/><br/>
 # Layout
