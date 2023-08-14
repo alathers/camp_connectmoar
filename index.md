@@ -40,7 +40,7 @@ To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 |Wednesday|Ethan,Nancy,Amanda M|Paul,Sofia,Danny|--|--|
 |Thursday|Ariel,Scott,Derick|Franck,Yurii|David|Niko/Laura|
 |Friday|Amanda B, Spencer|Randy, Bikram|--|--|
-|Saturday|Michael,Olga|--|--|--|
+|Saturday|Michael,Coline|--|--|--|
 
 <br/><br/>
 # Layout
