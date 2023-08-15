@@ -35,11 +35,11 @@ To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 | Day | Games 3-6pm | Tea 12am-2am | Light Show 9pm-11pm | Yoga 10am-11:30am |
 | --- | --- | --- | --- | --- |
 |Sunday|Dorthy,Nevine|Marcel,Jackie|--|--|
-|Monday|Nathan,Levi|Jeremy,Ryan|--|--|
-|Tuesday|Moana,Conner|Alexa,Kyle|Abel(Marky)| Niko/Laura|
+|Monday|Nathan,Levi|Jeremy,Ryan,Anton|--|--|
+|Tuesday|Moana,Conner,Anton|Alexa,Kyle,Olena|Abel(Marky)| Niko/Laura|
 |Wednesday|Ethan,Nancy,Amanda M|Paul,Sofia,Danny|--|--|
-|Thursday|Ariel,Scott,Derick|Franck,Yurii|David|Niko/Laura|
-|Friday|Amanda B, Spencer|Randy, Bikram|--|--|
+|Thursday|Ariel,Scott,Derick|Franck,Yurii,Anton|David|Niko/Laura|
+|Friday|Amanda B, Spencer,Olena|Randy, Bikram,Anton|--|--|
 |Saturday|Michael,Coline|--|--|--|
 
 <br/><br/>
