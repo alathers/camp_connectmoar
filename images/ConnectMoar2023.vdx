@@ -757,7 +757,7 @@
                 <Angle>-0</Angle>
                 <PinX>3</PinX>
                 <PinY>2.5</PinY>
-                <Width>6</Width>
+                <Width>5.999999999999999</Width>
                 <Height>5</Height>
                 <LocPinX>3</LocPinX>
                 <LocPinY>2.5</LocPinY>
@@ -2914,99 +2914,6 @@
         <Shape ID="35" Type="Shape" Name="Rectangle Fill:Chalk.35">
           <XForm>
             <Angle>-0</Angle>
-            <PinX>14.12326388888889</PinX>
-            <PinY>7.130208333333333</PinY>
-            <Width>1</Width>
-            <Height>1</Height>
-            <LocPinX>0.5</LocPinX>
-            <LocPinY>0.5</LocPinY>
-          </XForm>
-          <TextXForm>
-            <TxtPinX F="Width*0.500000">0.8611111111111112</TxtPinX>
-            <TxtLocPinX F="Width*0.500000">0.8611111111111112</TxtLocPinX>
-            <TxtPinY F="Height*0.500000">0.2562221950954861</TxtPinY>
-            <TxtLocPinY F="Height*0.500000">0.2562221950954861</TxtLocPinY>
-            <TxtWidth F="Width*1">0.8611111111111112</TxtWidth>
-            <TxtHeight F="Height*1">0.2562221950954861</TxtHeight>
-            <TxtAngle>-0</TxtAngle>
-          </TextXForm>
-          <Misc>
-            <ObjType>1</ObjType>
-          </Misc>
-          <Line>
-            <LinePattern>1</LinePattern>
-            <LineWeight>0.0138889</LineWeight>
-            <LineColor>0</LineColor>
-            <LineColorTrans>0</LineColorTrans>
-            <Rounding>0</Rounding>
-            <LineCap>0</LineCap>
-          </Line>
-          <Fill>
-            <FillPattern>1</FillPattern>
-            <FillForegnd>#ffffff</FillForegnd>
-            <FillForegndTrans>0</FillForegndTrans>
-            <ShdwPattern>0</ShdwPattern>
-            <ShdwForegnd>0</ShdwForegnd>
-            <ShdwForegndTrans>0.5</ShdwForegndTrans>
-            <ShapeShdwType>1</ShapeShdwType>
-            <ShapeShdwOffsetX>0</ShapeShdwOffsetX>
-            <ShapeShdwOffsetY>-0.0277778</ShapeShdwOffsetY>
-          </Fill>
-          <Geom IX="0">
-            <NoFill>0</NoFill>
-            <NoLine>0</NoLine>
-            <MoveTo IX="1">
-              <X F="Width*0.000000">0</X>
-              <Y F="Height*1.000000">1</Y>
-            </MoveTo>
-            <LineTo IX="2">
-              <X F="Width*1.000000">1</X>
-              <Y F="Height*1.000000">1</Y>
-            </LineTo>
-            <LineTo IX="3">
-              <X F="Width*1.000000">1</X>
-              <Y F="Height*0.000000">0</Y>
-            </LineTo>
-            <LineTo IX="4">
-              <X F="Width*0.000000">0</X>
-              <Y F="Height*0.000000">0</Y>
-            </LineTo>
-            <LineTo IX="5">
-              <X F="Width*0.000000">0</X>
-              <Y F="Height*1.000000">1</Y>
-            </LineTo>
-          </Geom>
-          <LayerMem>
-            <LayerMember>0</LayerMember>
-          </LayerMem>
-          <TextBlock>
-            <LeftMargin>0.0694444</LeftMargin>
-            <RightMargin>0.0694444</RightMargin>
-            <TopMargin>0.0694444</TopMargin>
-            <BottomMargin>0.0694444</BottomMargin>
-            <VerticalAlign>1</VerticalAlign>
-            <DefaultTabStop>0</DefaultTabStop>
-          </TextBlock>
-          <Char IX="0">
-            <Font>0</Font>
-            <Color>0</Color>
-            <Style>0</Style>
-            <Size>0.222222</Size>
-            <ColorTrans>0</ColorTrans>
-          </Char>
-          <Para IX="0">
-            <IndFirst>0</IndFirst>
-            <IndLeft>0</IndLeft>
-            <IndRight>-0</IndRight>
-            <SpLine>-1.2</SpLine>
-            <SpBefore>0</SpBefore>
-            <HorzAlign>1</HorzAlign>
-          </Para>
-          <Text><cp IX="0"/><pp IX="0"/>Marcel</Text>
-        </Shape>
-        <Shape ID="36" Type="Shape" Name="Rectangle Fill:Chalk.36">
-          <XForm>
-            <Angle>-0</Angle>
             <PinX>18.203125</PinX>
             <PinY>8.100694444444445</PinY>
             <Width>1</Width>
@@ -3097,7 +3004,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Bikram</Text>
         </Shape>
-        <Shape ID="37" Type="Shape" Name="Rectangle Fill:Chalk.37">
+        <Shape ID="36" Type="Shape" Name="Rectangle Fill:Chalk.36">
           <XForm>
             <Angle>-0</Angle>
             <PinX>19.09027777777778</PinX>
@@ -3190,7 +3097,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Laura</Text>
         </Shape>
-        <Shape ID="38" Type="Shape" Name="Rectangle Fill:Chalk.38">
+        <Shape ID="37" Type="Shape" Name="Rectangle Fill:Chalk.37">
           <XForm>
             <Angle>-0</Angle>
             <PinX>11.703125</PinX>
@@ -3283,7 +3190,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Ethan/Nancy</Text>
         </Shape>
-        <Shape ID="39" Type="Shape" Name="Rectangle Fill:Chalk.39">
+        <Shape ID="38" Type="Shape" Name="Rectangle Fill:Chalk.38">
           <XForm>
             <Angle>-0</Angle>
             <PinX>11.703125</PinX>
@@ -3376,7 +3283,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Kyle/Jackie</Text>
         </Shape>
-        <Shape ID="40" Type="Shape" Name="Rectangle Fill:Chalk.40">
+        <Shape ID="39" Type="Shape" Name="Rectangle Fill:Chalk.39">
           <XForm>
             <Angle>-0</Angle>
             <PinX>11.703125</PinX>
@@ -3469,7 +3376,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Randy/Coline</Text>
         </Shape>
-        <Shape ID="41" Type="Shape" Name="Rectangle No Fill No Fill.41">
+        <Shape ID="40" Type="Shape" Name="Rectangle No Fill No Fill.40">
           <XForm>
             <Angle>-0</Angle>
             <PinX>17.46875</PinX>
@@ -3564,7 +3471,7 @@
 165 deep
 </Text>
         </Shape>
-        <Shape ID="42" Type="Shape" Name="Rectangle Fill:Cool Marble.42">
+        <Shape ID="41" Type="Shape" Name="Rectangle Fill:Cool Marble.41">
           <XForm>
             <Angle>-0</Angle>
             <PinX>20</PinX>
@@ -3657,7 +3564,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Shower and Evap</Text>
         </Shape>
-        <Shape ID="43" Type="Shape" Name="Rectangle Fill:Chalk.43">
+        <Shape ID="42" Type="Shape" Name="Rectangle Fill:Chalk.42">
           <XForm>
             <Angle>-0.3490658</Angle>
             <PinX>16.0307663176006</PinX>
@@ -3750,7 +3657,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Trailer for Light Show</Text>
         </Shape>
-        <Shape ID="44" Type="Shape" Name="Graphic.44">
+        <Shape ID="43" Type="Shape" Name="Graphic.43">
           <XForm>
             <Angle>-0</Angle>
             <PinX>10.109375</PinX>
@@ -3819,7 +3726,7 @@
             <LayerMember>0</LayerMember>
           </LayerMem>
         </Shape>
-        <Shape ID="45" Type="Shape" Name="Rectangle Fill:Chalk.45">
+        <Shape ID="44" Type="Shape" Name="Rectangle Fill:Chalk.44">
           <XForm>
             <Angle>-0</Angle>
             <PinX>11.92836352456403</PinX>
@@ -3912,7 +3819,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Lisa RV</Text>
         </Shape>
-        <Shape ID="46" Type="Shape" Name="Rectangle Fill:Chalk.46">
+        <Shape ID="45" Type="Shape" Name="Rectangle Fill:Chalk.45">
           <XForm>
             <Angle>-0</Angle>
             <FlipX>1</FlipX>
@@ -4006,7 +3913,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Bike Storage</Text>
         </Shape>
-        <Shape ID="47" Type="Shape" Name="Rectangle Fill:Chalk.47">
+        <Shape ID="46" Type="Shape" Name="Rectangle Fill:Chalk.46">
           <XForm>
             <Angle>-0</Angle>
             <PinX>4.984375</PinX>
@@ -4075,7 +3982,7 @@
             <LayerMember>0</LayerMember>
           </LayerMem>
         </Shape>
-        <Shape ID="48" Type="Shape" Name="Rectangle No Fill No Fill.48">
+        <Shape ID="47" Type="Shape" Name="Rectangle No Fill No Fill.47">
           <XForm>
             <Angle>-1.570796</Angle>
             <PinX>10.09375</PinX>
@@ -4168,7 +4075,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>FIRE LANE - KEEP CLEAR AT ALL TIMES</Text>
         </Shape>
-        <Shape ID="49" Type="Shape" Name="Rectangle Fill:Chalk.49">
+        <Shape ID="48" Type="Shape" Name="Rectangle Fill:Chalk.48">
           <XForm>
             <Angle>-0</Angle>
             <PinX>19.11805555555556</PinX>
@@ -4261,7 +4168,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Niko</Text>
         </Shape>
-        <Shape ID="50" Type="Shape" Name="Rectangle Fill:Chalk.50">
+        <Shape ID="49" Type="Shape" Name="Rectangle Fill:Chalk.49">
           <XForm>
             <Angle>-0</Angle>
             <PinX>18.88368055555556</PinX>
@@ -4354,7 +4261,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Levi</Text>
         </Shape>
-        <Shape ID="51" Type="Shape" Name="Rectangle Fill:Chalk.51">
+        <Shape ID="50" Type="Shape" Name="Rectangle Fill:Chalk.50">
           <XForm>
             <Angle>-0</Angle>
             <PinX>18.93923611111111</PinX>
@@ -4447,7 +4354,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Amanda M</Text>
         </Shape>
-        <Shape ID="52" Type="Shape" Name="Rectangle No Fill No Fill.52">
+        <Shape ID="51" Type="Shape" Name="Rectangle No Fill No Fill.51">
           <XForm>
             <Angle>-0</Angle>
             <PinX>2.0234375</PinX>
@@ -4516,7 +4423,7 @@
             <LayerMember>0</LayerMember>
           </LayerMem>
         </Shape>
-        <Shape ID="53" Type="Shape" Name="Rectangle Fill:Chalk.53">
+        <Shape ID="52" Type="Shape" Name="Rectangle Fill:Chalk.52">
           <XForm>
             <Angle>-0</Angle>
             <PinX>15.11979166666667</PinX>
@@ -4609,7 +4516,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Nathan</Text>
         </Shape>
-        <Shape ID="54" Type="Shape" Name="Rectangle Fill:Chalk.54">
+        <Shape ID="53" Type="Shape" Name="Rectangle Fill:Chalk.53">
           <XForm>
             <Angle>-0</Angle>
             <PinX>16.14756944444444</PinX>
@@ -4702,7 +4609,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Jeremy</Text>
         </Shape>
-        <Shape ID="55" Type="Shape" Name="Rectangle Fill:Chalk.55">
+        <Shape ID="54" Type="Shape" Name="Rectangle Fill:Chalk.54">
           <XForm>
             <Angle>-0</Angle>
             <PinX>16.14496527777778</PinX>
@@ -4795,7 +4702,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Lisa</Text>
         </Shape>
-        <Shape ID="56" Type="Shape" Name="Rectangle Fill:Chalk.56">
+        <Shape ID="55" Type="Shape" Name="Rectangle Fill:Chalk.55">
           <XForm>
             <Angle>-1.570796</Angle>
             <PinX>8.79038647543597</PinX>
@@ -4889,7 +4796,7 @@
           <Text><cp IX="0"/><pp IX="0"/>Sunny Rv
 </Text>
         </Shape>
-        <Shape ID="57" Type="Shape" Name="Rectangle Fill:Chalk.57">
+        <Shape ID="56" Type="Shape" Name="Rectangle Fill:Chalk.56">
           <XForm>
             <Angle>-1.570796</Angle>
             <PinX>8.75913647543597</PinX>
@@ -4982,7 +4889,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Olena RV</Text>
         </Shape>
-        <Shape ID="58" Type="Shape" Name="Rectangle Fill:Chalk.58">
+        <Shape ID="57" Type="Shape" Name="Rectangle Fill:Chalk.57">
           <XForm>
             <Angle>-0</Angle>
             <PinX>19.70098047022652</PinX>
@@ -5076,7 +4983,7 @@
           <Text><cp IX="0"/><pp IX="0"/>Anton Rv
 </Text>
         </Shape>
-        <Shape ID="59" Type="Shape" Name="Rectangle Fill:Chalk.59">
+        <Shape ID="58" Type="Shape" Name="Rectangle Fill:Chalk.58">
           <XForm>
             <Angle>-0</Angle>
             <PinX>17.14409722222222</PinX>
@@ -5169,7 +5076,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Marcel</Text>
         </Shape>
-        <Shape ID="60" Type="Shape" Name="Rectangle Fill:Chalk.60">
+        <Shape ID="59" Type="Shape" Name="Rectangle Fill:Chalk.59">
           <XForm>
             <Angle>-0</Angle>
             <PinX>18.13541666666667</PinX>
@@ -5262,7 +5169,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Franck</Text>
         </Shape>
-        <Shape ID="61" Type="Shape" Name="Rectangle Fill:Chalk.61">
+        <Shape ID="60" Type="Shape" Name="Rectangle Fill:Chalk.60">
           <XForm>
             <Angle>-0</Angle>
             <PinX>14.37326388888889</PinX>
@@ -5355,7 +5262,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Jacquelyn</Text>
         </Shape>
-        <Shape ID="62" Type="Shape" Name="Rectangle Fill:Chalk.62">
+        <Shape ID="61" Type="Shape" Name="Rectangle Fill:Chalk.61">
           <XForm>
             <Angle>-0</Angle>
             <PinX>17.90972222222222</PinX>
@@ -5448,11 +5355,11 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Charlotte</Text>
         </Shape>
-        <Shape ID="63" Type="Shape" Name="Rectangle Fill:Chalk.63">
+        <Shape ID="62" Type="Shape" Name="Rectangle Fill:Chalk.62">
           <XForm>
             <Angle>-0</Angle>
-            <PinX>19.15972222222222</PinX>
-            <PinY>13.20841246998145</PinY>
+            <PinX>14.15625</PinX>
+            <PinY>7.145833333333333</PinY>
             <Width>1</Width>
             <Height>1</Height>
             <LocPinX>0.5</LocPinX>
@@ -5541,7 +5448,7 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Roger</Text>
         </Shape>
-        <Shape ID="64" Type="Shape" Name="Rectangle Fill:Chalk.64">
+        <Shape ID="63" Type="Shape" Name="Rectangle Fill:Chalk.63">
           <XForm>
             <Angle>-0</Angle>
             <PinX>17.19184027777778</PinX>
