@@ -42,6 +42,20 @@ To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 |Friday|Amanda B, Spencer,Olena|Randy, Bikram,Anton|--|--|
 |Saturday|Michael,Coline|--|--|--|
 
+
+## Meal Plan
+
+One of the amazing benefits of being a Connect Moar Camper is that you're part of the meal program.  <br />
+Everyone gets a dinner prepared nightly by the OUTSTANDING kitchen team!
+<br />
+The current 2023 menu plan is:
+* Monday - Stroganoff w/ broccoli over noodles.  Mushroom base, with optional thin sliced sous vide tri tip
+* Tuesday - Taco night. (Shredded pork and mushroom)
+* Wednesday - Curry night  (roti, paneer, chicken)
+* Thursday - Chili night (white bean chicken or veggie red)
+* Friday - Grilled cheese (pulled pork & tomato w/ boirson) (soup)
+* Saturday - Bolognese w/ garlic bread (arrabiata for vegetarians) served over noodles
+
 <br/><br/>
 # Layout
 
