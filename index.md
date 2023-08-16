@@ -48,8 +48,13 @@ To adjust your time slot please speak with Momma Diz or Adam<br/><br/>
 One of the amazing benefits of being a Connect Moar Camper is that you're part of the meal program.  <br />
 Everyone gets a dinner prepared nightly by the OUTSTANDING kitchen team!
 <br />
+Please remember - The meal program only accomodates our campers!  This means please don't make it awkward for kitchen having to turn people away.  
+They will already have worked for weeks leading up to the Burn as well as hours every day to make this special for you. Please do your part to make it special for them too! 
+<br />
 The team is looking to start prep so that meals are served a bit before dusk so that they're still able to practice Safety Third Principles! 
 and so they also get to all head out and have a fun evening as well.   We'll discuss specifics on Playa during the Mandatory all-camp meeting.
+
+Also note - Dinner is Mon-Sat.  This means 1 meal per day, and we're all on our own for Sunday/Temple day.  
 <br />
 The current 2023 menu plan is:
 * Monday - Stroganoff w/ broccoli over noodles.  Mushroom base, with optional thin sliced sous vide tri tip
