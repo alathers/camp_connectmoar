@@ -5541,6 +5541,99 @@
           </Para>
           <Text><cp IX="0"/><pp IX="0"/>Elizabeth</Text>
         </Shape>
+        <Shape ID="64" Type="Shape" Name="Rectangle Fill:Chalk.64">
+          <XForm>
+            <Angle>-0</Angle>
+            <PinX>16.953125</PinX>
+            <PinY>3.895516786740851</PinY>
+            <Width>1</Width>
+            <Height>1.5</Height>
+            <LocPinX>0.5</LocPinX>
+            <LocPinY>0.75</LocPinY>
+          </XForm>
+          <TextXForm>
+            <TxtPinX F="Width*0.500000">0.8611111111111112</TxtPinX>
+            <TxtLocPinX F="Width*0.500000">0.8611111111111112</TxtLocPinX>
+            <TxtPinY F="Height*0.500000">0.7686665852864584</TxtPinY>
+            <TxtLocPinY F="Height*0.500000">0.7686665852864584</TxtLocPinY>
+            <TxtWidth F="Width*1">0.8611111111111112</TxtWidth>
+            <TxtHeight F="Height*1">0.7686665852864584</TxtHeight>
+            <TxtAngle>-0</TxtAngle>
+          </TextXForm>
+          <Misc>
+            <ObjType>1</ObjType>
+          </Misc>
+          <Line>
+            <LinePattern>1</LinePattern>
+            <LineWeight>0.0138889</LineWeight>
+            <LineColor>0</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+            <Rounding>0</Rounding>
+            <LineCap>0</LineCap>
+          </Line>
+          <Fill>
+            <FillPattern>1</FillPattern>
+            <FillForegnd>#ffffff</FillForegnd>
+            <FillForegndTrans>0</FillForegndTrans>
+            <ShdwPattern>0</ShdwPattern>
+            <ShdwForegnd>0</ShdwForegnd>
+            <ShdwForegndTrans>0.5</ShdwForegndTrans>
+            <ShapeShdwType>1</ShapeShdwType>
+            <ShapeShdwOffsetX>0</ShapeShdwOffsetX>
+            <ShapeShdwOffsetY>-0.0277778</ShapeShdwOffsetY>
+          </Fill>
+          <Geom IX="0">
+            <NoFill>0</NoFill>
+            <NoLine>0</NoLine>
+            <MoveTo IX="1">
+              <X F="Width*0.000000">0</X>
+              <Y F="Height*1.000000">1.5</Y>
+            </MoveTo>
+            <LineTo IX="2">
+              <X F="Width*1.000000">1</X>
+              <Y F="Height*1.000000">1.5</Y>
+            </LineTo>
+            <LineTo IX="3">
+              <X F="Width*1.000000">1</X>
+              <Y F="Height*0.000000">0</Y>
+            </LineTo>
+            <LineTo IX="4">
+              <X F="Width*0.000000">0</X>
+              <Y F="Height*0.000000">0</Y>
+            </LineTo>
+            <LineTo IX="5">
+              <X F="Width*0.000000">0</X>
+              <Y F="Height*1.000000">1.5</Y>
+            </LineTo>
+          </Geom>
+          <LayerMem>
+            <LayerMember>0</LayerMember>
+          </LayerMem>
+          <TextBlock>
+            <LeftMargin>0.0694444</LeftMargin>
+            <RightMargin>0.0694444</RightMargin>
+            <TopMargin>0.0694444</TopMargin>
+            <BottomMargin>0.0694444</BottomMargin>
+            <VerticalAlign>1</VerticalAlign>
+            <DefaultTabStop>0</DefaultTabStop>
+          </TextBlock>
+          <Char IX="0">
+            <Font>0</Font>
+            <Color>0</Color>
+            <Style>0</Style>
+            <Size>0.222222</Size>
+            <ColorTrans>0</ColorTrans>
+          </Char>
+          <Para IX="0">
+            <IndFirst>0</IndFirst>
+            <IndLeft>0</IndLeft>
+            <IndRight>-0</IndRight>
+            <SpLine>-1.2</SpLine>
+            <SpBefore>0</SpBefore>
+            <HorzAlign>1</HorzAlign>
+          </Para>
+          <Text><cp IX="0"/><pp IX="0"/>Adam/Jon/Erin vehicle</Text>
+        </Shape>
       </Shapes>
       <Connects/>
     </Page>
