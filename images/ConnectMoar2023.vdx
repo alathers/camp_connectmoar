@@ -2194,8 +2194,8 @@
         <Shape ID="27" Type="Shape" Name="Rectangle Fill:Chalk.27">
           <XForm>
             <Angle>-0</Angle>
-            <PinX>18.203125</PinX>
-            <PinY>9.152777777777779</PinY>
+            <PinX>18.07118055555556</PinX>
+            <PinY>8.083333333333334</PinY>
             <Width>1</Width>
             <Height>1</Height>
             <LocPinX>0.5</LocPinX>
@@ -2914,8 +2914,8 @@
         <Shape ID="35" Type="Shape" Name="Rectangle Fill:Chalk.35">
           <XForm>
             <Angle>-0</Angle>
-            <PinX>18.203125</PinX>
-            <PinY>8.100694444444445</PinY>
+            <PinX>18.13715277777778</PinX>
+            <PinY>9.135416666666666</PinY>
             <Width>1</Width>
             <Height>1</Height>
             <LocPinX>0.5</LocPinX>
